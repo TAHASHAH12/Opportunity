@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+tool/
+
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+
+# Node modules (if using JavaScript)
+node_modules/
